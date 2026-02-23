@@ -37,7 +37,7 @@ export default function Home() {
     </nav>
     {/* Placeholder para que no se vea que el navbar queda fijo arriba */}
     <div className="pt-32 text-center">
-      <h1 className="text-4xl font-bold text-white">Taskflow</h1>
+      <h1 className="text-4xl font-bold text-white"></h1>
     </div>
 
     {/* hero */}
